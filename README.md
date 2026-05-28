@@ -30,8 +30,8 @@ Technical auditors and database administrators can review the infrastructure bui
 
 * `/database-engine/01_init_tables.sql` - Establishes the rigid relational schema to prevent data entry errors.
 * `/database-engine/02_mock_data_load.sql` - Populates the EPA reference tables and injects highly realistic, varying operational fleet data (including heavy loads, port idling, and deadheading).
-* `/database-engine/03_compliance_views.sql` - *[In Development]* The mass balance calculation engine.
-* `/powerbi-dashboards/` - *[In Development]* The interactive `.pbit` reporting files.
+* `/database-engine/03_compliance_views.sql` - Production-Ready The mass balance calculation engine.
+* `/powerbi-dashboards/ColdChain_Fleet_Emissions_v1.pbix` - Production-Ready The interactive `.pbit/pbix` reporting files.
 
 ## 📐 About the Architect 
 This architecture was designed and built by **Value Asymmetry**, a boutique analytics consultancy operating in the Delaware Valley. We specialize in building automated intelligence systems for SMEs. 
