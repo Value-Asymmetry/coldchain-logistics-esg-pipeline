@@ -38,4 +38,4 @@ This architecture was designed and built by **Asymmetric Insight**, a boutique a
 
 Unlike traditional business intelligence analysts, our systems are rooted in physical realities. Engineered by a professional holding a Bachelor of Environmental Engineering from the University of Delaware (with a concentration in pollution transport and control processes) and an Engineer Intern designation issued in April 1999, our pipelines ensure all data transformations accurately reflect real-world combustion stoichiometry and localized regulatory constraints.
 
-**Contact:** Reach out via [Value Asymmetry](https://asymmetric-insight.github.io/) 
+**Contact:** Reach out via [Asymmetric Insight](https://asymmetric-insight.github.io/) 
