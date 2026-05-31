@@ -34,8 +34,8 @@ Technical auditors and database administrators can review the infrastructure bui
 * `/powerbi-dashboards/ColdChain_Fleet_Emissions_v1.pbix` - Production-Ready The interactive `.pbit/pbix` reporting files.
 
 ## 📐 About the Architect 
-This architecture was designed and built by **Value Asymmetry**, a boutique analytics consultancy operating in the Delaware Valley. We specialize in building automated intelligence systems for SMEs. 
+This architecture was designed and built by **Asymmetric Insight**, a boutique analytics consultancy operating in the Delaware Valley. We specialize in building automated intelligence systems for SMEs. 
 
 Unlike traditional business intelligence analysts, our systems are rooted in physical realities. Engineered by a professional holding a Bachelor of Environmental Engineering from the University of Delaware (with a concentration in pollution transport and control processes) and an Engineer Intern designation issued in April 1999, our pipelines ensure all data transformations accurately reflect real-world combustion stoichiometry and localized regulatory constraints.
 
-**Contact:** Reach out via [Value Asymmetry](https://value-asymmetry.github.io/) 
+**Contact:** Reach out via [Value Asymmetry](https://asymmetric-insight.github.io/) 
